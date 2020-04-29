@@ -1,8 +1,13 @@
 {
     "version": 3,
-    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACb;;AAGD,AAAA,eAAe,CAAA;EACX,WAAW,EAAE,KAAK;CACrB",
+    "mappings": "ACEA,AAAA,MAAM,CAAA;EACF,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;CAClB;;AAGD,AAAA,iBAAiB,CAAA;EACb,WAAW,EAAE,GAAG;CAInB;;AALD,AAEI,iBAFa,CAEb,GAAG,CAAA;EACC,KAAK,EAAE,KAAK;CACf;;ADVL,AAAA,IAAI,CAAA;EACA,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACb;;AAGD,AAAA,eAAe,CAAA;EACX,WAAW,EAAE,KAAK;CACrB;;AGTD,MAAM,EAAC,SAAS,EAAE,KAAK;EACnB,AACI,MADE,CACF,eAAe,CAAA;IACX,WAAW,EAAE,KAAK;GACrB;EAEL,AACQ,iBADS,CACT,GAAG,CAAA;IACC,KAAK,EAAE,KAAK;IACZ,cAAc,EAAE,IAAI;GACvB;;;AEXb,AAAA,OAAO,CAAA;EACJ,WAAW,EAAE,IAAI;CAOnB;;AARD,AAEI,OAFG,CAEH,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,KAAK;CACnB",
     "sources": [
-        "style.scss"
+        "style.scss",
+        "components/_header.scss",
+        "components/_responsive.scss",
+        "components/responsive/_mobile.scss",
+        "components/responsive/_tablete.scss",
+        "components/_footer.scss"
     ],
     "names": [],
     "file": "style.css"
